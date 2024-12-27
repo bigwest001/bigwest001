@@ -1,16 +1,43 @@
-## Hi there 👋
+#  Hello, i am stephen
 
-<!--
-**bigwest001/bigwest001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/stephen-nwokike-51746b343/edit/intro/?profileFormEntryPoint=PROFILE_SECTION&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BijXYe6zLRlShjB8USl2ePQ%3D%3D"/></a>
 
-Here are some ideas to get you started:
+[Brief introduction] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I am a recent graduate with a profound interest in technology and a dedication to solve complex problem.
+ ## Objectives
+[provide objective]
+
+ my journey in computer technolygy has led me to develop a passion for cybersecurity, and i am now eager to transition into this field, specifically aiming to join 
+ security operations center (soc) as tier 1 analyst.
+
+ ## skills 
+[provide skills and associated project. make sure to hyperlink the project]
+
+[ skill                                                                                 associated project]
+
+SIEM implementation and log analysis
+
+Network traffic monitoring and attack detection
+
+security automation with shuffle SOAR
+
+Incident planning and response execution
+
+case management with thehive
+
+scripting and automation for threat mitigation
+
+## tools
+[provide tools and break them down into categories. use chatGPT to help create the link]
+
+### network
+<div></div
+       
+ ## projects
+
+[detection lab]
+
+SOC Automation project
+
+test project
